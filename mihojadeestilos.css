@@ -6,7 +6,7 @@ body{
 
 #cabeceraweb{
 	background-color: #0d0685;
-	padding-left: 320px;
+	padding-left: 80px;
 	padding-top: 10px;
 	padding-bottom: 10px;
 	color: #ffffff;
@@ -200,4 +200,17 @@ li{
 	background-color: #eff0f0;
 	color: #818282;
 
+}
+
+#Reproductor{
+
+	float: right;
+	padding-top: 20px;
+	padding-right: 10px;
+}
+
+#TextoAudio{
+	float: right;
+	padding-right: 25px;
+	padding-top: 15px;
 }
