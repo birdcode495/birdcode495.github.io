@@ -1,8 +1,15 @@
+body{
+	margin-left: -10px;
+	margin-right: -10px;
+}
+
+
 #cabeceraweb{
-	background-color: #c77628;
+	background-color: #0d0685;
 	padding-left: 320px;
 	padding-top: 10px;
 	padding-bottom: 10px;
+	color: #ffffff;
 }
 
 #barra_navegacion{
@@ -29,6 +36,7 @@
 	background-color: #59602c;
 	clear: both;
 	margin-top: 30px;
+	padding-left: 20px;
 }
 
 li{
@@ -36,10 +44,15 @@ li{
 	display: inline;
 }
 
-figure{
-	padding-left: 10px;
-	margin-top: 50px;
-	background-color: #afecd3;
+#FiguraColibri{
+	padding-left: 50px;
+	margin-top: -20px;
+	background-color: #5a5018;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	margin-left: -10px;
+	margin-right: -10px;
+	margin-bottom: 0px;
 	
 }
 
@@ -47,26 +60,76 @@ figure{
 	float: right;
 
 	padding-top: 20px;
-	padding-right: 180px;
+	padding-right: 240px;
+	font-size: 16px;
+	color: #ffffff;
+
 
 	
 }
 
 #VideoGBIF{
-	padding-left: 420px;
-	padding-top: 10px;
+	/*float: right;*/
+	padding-left: 380px;
+	padding-bottom: 40px;
+	
+	
 }
 
-#GBIF{
-	padding-top: 10px;
+/*#GBIF{
+	margin-top: 0px;
+	padding-top: 30px;
 	padding-bottom: 30px;
-	padding-left: 10px;
-	padding-right: 10px;
+	padding-left: 360px;
+	padding-right: 50px;
 	background-color: #ee4a08;
+	margin-left: -10px;
+	margin-right: -10px;
+	text-align: justify;
+}*/
+
+#TituloGBIF{
+	padding-top: 40px;
+	padding-left: 350px;
+	padding-bottom: 30px;
 }
 
 #Idioma{
 	float: right;
 	padding-right: 20px;
 	padding-top: 40px;
+}
+
+#veb{
+	padding-left: 200px;
+	padding-right: 200px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	text-align: justify;
+	background-color: #dededc;
+	margin-left: -10px;
+	margin-right: -10px;
+	color: #7b7b78;
+}
+
+#ProyectoBirdCode{
+	padding-left: 200px;
+	padding-right: 200px;
+	padding-top: 20px;
+	padding-bottom: 30px;
+	margin-top: -20px;
+	margin-left: -10px;
+	margin-right: -10px;
+	margin-bottom: -10px;
+	text-align: justify;
+	background-color: #095e83;
+	color: #ffffff;
+
+}
+
+#ImagenInicio{
+	margin-left: -10px;
+	margin-right: -10px;
+	margin-bottom: -10px;
+	background-color:;
 }
