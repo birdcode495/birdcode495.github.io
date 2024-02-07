@@ -1,0 +1,72 @@
+#cabeceraweb{
+	background-color: #c77628;
+	padding-left: 320px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+#barra_navegacion{
+	background-color: #eecdb1;
+}
+
+#barralateral{
+	background-color: #f2a180;
+	float: left;
+	height: 3050px;
+	padding-left: 10px;
+	padding-right: 10px;
+
+}
+
+#seccion{
+	/*margin-left: 190px;*/
+	padding-left: 15px;
+	padding-right: 15px;
+	padding-top: 15px;
+}
+
+#foot{
+	background-color: #59602c;
+	clear: both;
+	margin-top: 30px;
+}
+
+li{
+	background-color: #d32318;
+	display: inline;
+}
+
+figure{
+	padding-left: 10px;
+	margin-top: 50px;
+	background-color: #afecd3;
+	
+}
+
+#cajetinImagen{
+	float: right;
+
+	padding-top: 20px;
+	padding-right: 180px;
+
+	
+}
+
+#VideoGBIF{
+	padding-left: 420px;
+	padding-top: 10px;
+}
+
+#GBIF{
+	padding-top: 10px;
+	padding-bottom: 30px;
+	padding-left: 10px;
+	padding-right: 10px;
+	background-color: #ee4a08;
+}
+
+#Idioma{
+	float: right;
+	padding-right: 20px;
+	padding-top: 40px;
+}
