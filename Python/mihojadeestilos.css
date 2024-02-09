@@ -1,0 +1,256 @@
+body{
+	margin-left: -10px;
+	margin-right: -10px;
+	overflow-x: hidden;
+}
+
+
+#cabeceraweb{
+	background-color: #095e83;
+	padding-left: 80px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	color: #ffffff;
+	font-size: 14px;
+	margin-top: -10px;
+}
+
+#barra_navegacion{
+	background-color: #eecdb1;
+}
+
+#barralateral{
+	float: left;
+	background-color: #095e83;
+	height: 250px;
+	padding-left: 10px;
+	padding-right: 10px;
+	margin-top: 20px;
+	margin-left: 100px;
+	color: #ffffff;
+
+}
+
+#seccion{
+	/*margin-left: 190px;*/
+	padding-left: 15px;
+	padding-right: 15px;
+	padding-top: 15px;
+}
+
+#foot{
+	background-color: #59602c;
+	clear: both;
+	margin-top: 30px;
+	padding-left: 20px;
+}
+
+li{
+	background-color: #d32318;
+	display: inline;
+}
+
+#FiguraColibri{
+	padding-left: 50px;
+	margin-top: -50px;
+	background-color: #5a5018;
+	padding-top: 40px;
+	padding-bottom: 20px;
+	margin-left: -10px;
+	margin-right: -10px;
+	margin-bottom: 0px;
+	
+}
+
+#cajetinImagen{
+	float: right;
+
+	/*padding-top: -30px;*/
+	padding-right: 240px;
+	padding-bottom: 30px;
+	font-size: 16px;
+	color: #ffffff;
+
+
+	
+}
+
+#VideoGBIF{
+	/*float: right;*/
+	padding-left: 380px;
+	padding-bottom: 90px;
+	
+	
+}
+
+/*#GBIF{
+	margin-top: 0px;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	padding-left: 360px;
+	padding-right: 50px;
+	background-color: #ee4a08;
+	margin-left: -10px;
+	margin-right: -10px;
+	text-align: justify;
+}*/
+
+#TituloGBIF{
+	padding-top: 40px;
+	padding-left: 350px;
+	padding-bottom: 30px;
+}
+
+#Idioma{
+	float: right;
+	padding-right: 20px;
+	padding-top: 40px;
+}
+
+#veb{
+	padding-left: 200px;
+	padding-right: 200px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	text-align: justify;
+	background-color: #dededc;
+	margin-left: -10px;
+	margin-right: -10px;
+	color: #7b7b78;
+}
+
+#ProyectoBirdCode{
+	padding-left: 200px;
+	padding-right: 200px;
+	padding-top: 20px;
+	padding-bottom: 30px;
+	margin-top: -20px;
+	margin-left: -10px;
+	margin-right: -10px;
+	margin-bottom: -10px;
+	text-align: justify;
+	background-color: #095e83;
+	color: #ffffff;
+
+}
+
+#ImagenInicio{
+	margin-left: -150px;
+	margin-right: -10px;
+	margin-bottom: -10px;
+	margin-top: 0px;
+	background-color:;
+}
+
+#STEM{
+	padding-left: 200px;
+	padding-right: 200px;
+	padding-top: 20px;
+	padding-bottom: 50px;
+	margin-top: -20px;
+	margin-left: -10px;
+	margin-right: -10px;
+	margin-bottom: -10px;
+	text-align: justify;
+	background-color: #095e83;
+	color: #ffffff;
+
+}
+
+#TituloBilinguismo{
+	font-size: 20px;
+}
+
+#cajaImagen{
+	padding-top: 30px;
+}
+
+#Programacion{
+	padding-left: 200px;
+	padding-right: 200px;
+	padding-top: 20px;
+	padding-bottom: 50px;
+	margin-top: -20px;
+	margin-left: -10px;
+	margin-right: -10px;
+	margin-bottom: -10px;
+	text-align: justify;
+	/*background-color: #636364;*/
+	/*color: #ffffff;*/
+
+}
+
+#Redes{
+	padding-left: 200px;
+	padding-right: 200px;
+	padding-top: 20px;
+	padding-bottom: 50px;
+	margin-top: -20px;
+	margin-left: -10px;
+	margin-right: -10px;
+	margin-bottom: -10px;
+	text-align: justify;
+	background-color: #149f7d;
+	color: #ffffff;
+}
+
+#Tecnologias{
+	padding-left: 200px;
+	padding-right: 200px;
+	padding-top: 20px;
+	padding-bottom: 50px;
+	margin-top: -20px;
+	margin-left: -10px;
+	margin-right: -10px;
+	margin-bottom: -10px;
+	text-align: justify;
+	background-color: #eff0f0;
+	color: #818282;
+
+}
+
+#Reproductor{
+
+	float: right;
+	padding-top: 16px;
+	padding-right: 10px;
+}
+
+#TextoAudio{
+	float: right;
+	padding-right: 25px;
+	padding-top: 5px;
+}
+
+#VideoPresentacionBirdCode{
+	padding-top: 50px;
+	padding-bottom: 50px;
+	padding-left: 390px;
+}
+
+#ContenidoPython{
+	margin-top: 60px;
+	margin-left: 350px;
+	color: #ffffff;
+	padding-right: 130px;
+	/*text-align: justify;*/
+}
+
+#TitulosPrincipalesPaginaPython{
+
+	margin-top: 60px;
+	margin-left: 740px;
+	color: #ffffff;
+
+}
+
+#ContenidosGenerales{
+	background-color: #095e83;
+	margin-top: -10px;
+	font-size: 18px;
+	
+}
+
+#VideosPython{
+	margin-left: 70px;
+}
