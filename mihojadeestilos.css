@@ -6,7 +6,7 @@
 }*/
 
 header .brand img{
-	height: 60px;
+	height: 70px;
 	
 	margin-top: 5px;
 
@@ -74,7 +74,7 @@ header .menu a{
 	text-transform: uppercase;
 	font-size: 10px;
 	text-decoration: none;
-	margin: 0 5px;
+	margin: 5px 15px;
 	border-radius: 50px;
 	transition: 0.3s;
 	transition-property: color, background;
@@ -84,7 +84,7 @@ header .menu a{
 header .menu a:hover{
 	color: #fff;
 	background: #095e83;
-	width: 40px;
+
 }
 
 header .btn{
@@ -306,6 +306,7 @@ body{
 	text-align: justify;
 	background-color: #095e83;
 	color: #ffffff;
+	font-size: 18px;
 
 }
 
@@ -327,8 +328,8 @@ body{
 	margin-right: -10px;
 	margin-bottom: -10px;
 	text-align: justify;
-	/*background-color: #636364;*/
-	/*color: #ffffff;*/
+	background-color: #636364;
+	color: #ffffff;
 
 }
 
@@ -372,6 +373,7 @@ body{
 	float: right;
 	padding-right: 25px;
 	padding-top: 5px;
+	color: #fff;
 }
 
 #VideoPresentacionBirdCode{
@@ -399,4 +401,34 @@ body{
 	background-color: #d6d9d9;
 	margin-top: -10px;
 	
+}
+
+#Logo{
+	margin-left: 90px;
+	margin-top: 40px;
+	
+}
+
+#BirdLogo{
+	margin-left: 60px;
+	margin-top: 40px;
+
+}
+
+#RadarLogo{
+	margin-left: 115px;
+	margin-top: 40px;
+
+}
+
+#TituloGames{
+	padding-left: 200px;
+	margin-top: 5px;
+	margin-bottom: 50px;
+
+	color: #0e4803;
+}
+
+#ContenedorLogoGames{
+	padding-bottom: 140px;
 }
