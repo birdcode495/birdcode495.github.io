@@ -233,7 +233,7 @@ li{
 	margin-left: 350px;
 	color: #ffffff;
 	padding-right: 130px;
-	/*text-align: justify;*/
+	text-align: justify;
 }
 
 #TitulosPrincipalesPaginaPython{
@@ -253,4 +253,12 @@ li{
 
 #VideosPython{
 	margin-left: 70px;
+}
+
+
+#TituloLeccion1{
+	padding-left: 340px;
+	padding-top: 50px;
+	margin-left: 10px;
+	color: #ffffff;
 }

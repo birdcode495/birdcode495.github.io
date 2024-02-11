@@ -1,12 +1,163 @@
+/**{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+}*/
+
+header .brand img{
+	height: 60px;
+	
+	margin-top: 5px;
+
+}
+
+#CabeceraWeb{
+	z-index: 999;
+	position: fixed;
+	background-color: #000;
+	top: 0;
+	left: 0;
+	width: 100%;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 10px 40px;
+	transition: 0.6s;
+}
+
+header .down{
+	background: #1483D5;
+	padding: 15px 80px;
+}
+
+header .brand{
+	color: #fff;
+	font-size: 30px;
+	font-weight: 700;
+	text-transform: uppercase;
+	text-decoration: none;
+	letter-spacing: 2px;
+}
+
+header .menu{
+	position: absolute;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+
+
+
+}
+
+header .menu ul{
+	position: sticky;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	padding-left: 140px;
+
+}
+
+header .menu ul li{
+	list-style: none;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+	
+
+
+}
+
+header .menu a{
+	color: #fff;
+	font-weight: 700px;
+	text-transform: uppercase;
+	font-size: 10px;
+	text-decoration: none;
+	margin: 0 5px;
+	border-radius: 50px;
+	transition: 0.3s;
+	transition-property: color, background;
+}
+
+
+header .menu a:hover{
+	color: #fff;
+	background: #095e83;
+	width: 40px;
+}
+
+header .btn{
+	color: #fff;
+	font-size: 25px;
+	cursor: pointer;
+	display: none;
+
+}
+
+
+@media (max-width: 991px){
+	header, header.down{
+		padding: 20px 40px;
+	}
+
+	header .btn{
+		display: block;
+	}
+
+	header .menu{
+		position: fixed;
+		background: #1483D5;
+		min-width: 33px;
+		height: 100vh;
+		top: 0;
+		right: -100%;
+		padding: 80px 50px;
+		transition: 0.5s;
+		transition-property: right;
+
+	}
+
+	header .menu ul{
+		flex-direction: column;
+	}
+
+	header .menu.active{
+		right: 0;
+	}
+
+	header .menu .close-btn{
+		position: absolute;
+		top: 0;
+		left: 0;
+		margin: 25px;
+	}
+
+	header .menu a{
+		display: block;
+		font-size: 20px;
+		margin: 20px;
+		padding: 0 15px;
+	}
+}
+
+
+@media (max-width:600px){
+	.section-main h1{
+		font-size: 40px;
+		line-height: 60px;
+	}
+}
+
 body{
 	margin-left: -10px;
 	margin-right: -10px;
-	/*overflow-x: hidden;*/
+	overflow-x: hidden;
 }
 
 
 #cabeceraweb{
-	background-color: #095e83;
+	/*background-color: #095e83;*/
 	padding-left: 80px;
 	padding-top: 10px;
 	padding-bottom: 10px;
@@ -45,10 +196,10 @@ body{
 	padding-left: 20px;
 }
 
-li{
+/*li{
 	background-color: #d32318;
 	display: inline;
-}
+}*/
 
 #FiguraColibri{
 	padding-left: 50px;
@@ -131,6 +282,7 @@ li{
 	text-align: justify;
 	background-color: #095e83;
 	color: #ffffff;
+	font-size: 20px;
 
 }
 
