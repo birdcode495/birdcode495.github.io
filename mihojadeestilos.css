@@ -311,6 +311,22 @@ body{
 	background-color:;
 }
 
+#ImagenInicio4{
+	margin-left: -5px;
+	margin-right: -10px;
+	margin-bottom: -110px;
+	margin-top: -30px;
+	background-color:;
+}
+
+
+#ImagenInicio5{
+	margin-left: -400px;
+	margin-right: -10px;
+	margin-bottom: -10px;
+	margin-top: 0px;
+	background-color:;
+}
 
 #STEM{
 	padding-left: 200px;
@@ -394,6 +410,13 @@ body{
 	color: #fff;
 }
 
+#TextoAudio2{
+	float: right;
+	padding-right: 25px;
+	padding-top: 5px;
+	color: #000;
+}
+
 #VideoPresentacionBirdCode{
 	padding-top: 50px;
 	padding-bottom: 50px;
@@ -401,17 +424,30 @@ body{
 }
 
 #ContenidoPython{
-	margin-top: 30px;
-	margin-left: 350px;
-	color: #4f5050;
-	padding-right: 130px;
+	padding-left: 200px;
+	padding-right: 200px;
+	padding-top: 20px;
+	padding-bottom: 50px;
+	margin-top: -20px;
+	margin-left: -10px;
+	margin-right: -10px;
+	margin-bottom: -10px;
 	text-align: justify;
+	color: #000;
+	font-size: 18px;
 }
 
 #TitulosPrincipalesPaginaPython{
 
-	margin-top: 30px;
-	margin-left: 800px;
+	margin-top: 70px;
+	margin-left: 380px;
+
+}
+
+#TitulosPrincipalesPaginaPython2{
+
+	margin-top: -30px;
+	margin-left: 380px;
 
 }
 
@@ -441,6 +477,7 @@ body{
 
 #TituloGames{
 	padding-left: 200px;
+	padding-top: 10px;
 	margin-top: 5px;
 	margin-bottom: 50px;
 
