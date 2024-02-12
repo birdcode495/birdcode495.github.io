@@ -273,7 +273,7 @@ body{
 #ProyectoBirdCode{
 	padding-left: 200px;
 	padding-right: 200px;
-	padding-top: 20px;
+	padding-top: 70px;
 	padding-bottom: 30px;
 	margin-top: -20px;
 	margin-left: -10px;
@@ -293,6 +293,24 @@ body{
 	margin-top: 0px;
 	background-color:;
 }
+
+#ImagenInicio2{
+	margin-left: -330px;
+	margin-right: -10px;
+	margin-bottom: -10px;
+	margin-top: 0px;
+	background-color:;
+}
+
+
+#ImagenInicio3{
+	margin-left: -310px;
+	margin-right: -10px;
+	margin-bottom: -10px;
+	margin-top: 0px;
+	background-color:;
+}
+
 
 #STEM{
 	padding-left: 200px;
@@ -431,4 +449,37 @@ body{
 
 #ContenedorLogoGames{
 	padding-bottom: 140px;
+}
+
+#Articulo1_STEM{
+	padding-left: 200px;
+	padding-right: 200px;
+	padding-top: 20px;
+	padding-bottom: 50px;
+	margin-top: -20px;
+	margin-left: -10px;
+	margin-right: -10px;
+	margin-bottom: -10px;
+	text-align: justify;
+	background-color: #095e83;
+	color: #ffffff;
+	font-size: 18px;
+
+}
+
+
+#Articulo2_STEM{
+	padding-left: 200px;
+	padding-right: 200px;
+	padding-top: 20px;
+	padding-bottom: 50px;
+	margin-top: -20px;
+	margin-left: -10px;
+	margin-right: -10px;
+	margin-bottom: -10px;
+	text-align: justify;
+	background-color: #095e83;
+	color: #ffffff;
+	font-size: 18px;
+
 }
