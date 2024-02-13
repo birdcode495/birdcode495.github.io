@@ -228,8 +228,8 @@ body{
 
 #VideoGBIF{
 	/*float: right;*/
-	padding-left: 380px;
-	padding-bottom: 90px;
+	margin-left: 380px;
+	margin-bottom: 90px;
 	
 	
 }
