@@ -328,6 +328,22 @@ body{
 	background-color:;
 }
 
+#ImagenInicio6{
+	margin-left: -210px;
+	margin-right: -10px;
+	margin-bottom: -10px;
+	margin-top: 70px;
+	background-color:;
+}
+
+#ImagenInicio7{
+	margin-left: -400px;
+	margin-right: -10px;
+	margin-bottom: -10px;
+	margin-top: 70px;
+	background-color:;
+}
+
 #STEM{
 	padding-left: 200px;
 	padding-right: 200px;
@@ -414,7 +430,12 @@ body{
 	float: right;
 	padding-right: 25px;
 	padding-top: 5px;
-	color: #000;
+	color: #fff;
+	font-size: 12px;
+}
+
+#TextoAudio2 a{
+	color: #fff;
 }
 
 #VideoPresentacionBirdCode{
@@ -518,5 +539,26 @@ body{
 	background-color: #095e83;
 	color: #ffffff;
 	font-size: 18px;
+
+}
+
+#LogosJuegosPagina{
+
+	background-color: #0d0139;
+	margin-left: -10px;
+	margin-top: -10px;
+	margin-right: -20px;
+	padding-left: 430px;
+
+}
+
+
+#LogosJuegosPagina2{
+
+	background-color: #37023d;
+	margin-left: -10px;
+	margin-top: -10px;
+	margin-right: -20px;
+	padding-left: 430px;
 
 }
