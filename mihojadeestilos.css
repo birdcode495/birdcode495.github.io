@@ -623,6 +623,7 @@ body{
 
 #TablaElencoEspecies{
 	text-align: center;
+	width: 1120px;
 
 }
 
@@ -640,7 +641,7 @@ th{
 	padding-top: 30px;
 	padding-left: 300px;
 	padding-bottom: 20px;
-	font-size: 19px;
+	font-size: 17px;
 }
 
 
