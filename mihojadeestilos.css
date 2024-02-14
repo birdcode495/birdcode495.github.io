@@ -268,6 +268,7 @@ body{
 	margin-left: -10px;
 	margin-right: -10px;
 	color: #7b7b78;
+	font-size: 18px;
 }
 
 #ProyectoBirdCode{
@@ -587,6 +588,59 @@ body{
 
 }
 
+#ElencoEspecies1{
 
+	padding-left: 50px;
+	padding-top: 10px;
+	padding-bottom: 30px;
+}
+
+#ElencoEspecies2{
+
+	padding-left: 10px;
+	padding-top: 10px;
+	padding-bottom: 30px;
+}
+
+
+#TituloElencoEspecies{
+	padding-top: 20px;
+	padding-left: 600px;
+	padding-bottom: 20px;
+	font-size: 30px;
+}
+
+#ContenedorImages{
+	display: flex;
+	font-size: 10px;
+	margin-left: 10px;
+}
+
+#ContenedorImagenesElenco{
+	display: inline-flex;
+	margin-left: 330px;
+}
+
+#TablaElencoEspecies{
+	text-align: center;
+
+}
+
+td{
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+th{
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+#TituloPaginaElencoEspecies{
+	padding-top: 30px;
+	padding-left: 300px;
+	padding-bottom: 20px;
+	font-size: 19px;
+}
 
 
